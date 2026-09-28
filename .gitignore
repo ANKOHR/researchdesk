@@ -1,0 +1,12 @@
+researchdesk-prompt.txt
+rd-launch.py
+rd-codex.log
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+build/
+dist/
+*.egg-info/
+**/.researchdesk/
+rd-audit.jsonl
