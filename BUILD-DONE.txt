@@ -1,0 +1,4 @@
+Test count: 11 passed
+Local commit hash: 02d4a8df8c3d7f1650a1b51c0bb12f8cb8c0fd35
+
+ResearchDesk is a CPU-only Python CLI that creates a deterministic 14-document synthetic corpus, ingests local text and Markdown plus cached URLs, extracts claims with keyword and stance rules, builds source relationship graphs, and writes Markdown or HTML reports with exact passage citations, visible contradictions, and an UNVERIFIED section. It records query audit events and documents its rule-based honesty boundary. The complete test suite passes.
